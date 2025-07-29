@@ -1,3 +1,3 @@
 # 5231248\_Syeda-Zainab
-![Alt Text]("c:\Git_StepIn\5231248_Syeda-Zainab\Git\Git certificate.pdf")
+![Alt Text]("https://github.com/Zainab1402/5231248_Syeda-Zainab/blob/main/SDLC/SDLC-Agile%20.png")
 
